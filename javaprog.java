@@ -1,0 +1,4 @@
+ calss mane
+{
+publis statc 
+}
